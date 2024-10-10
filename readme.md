@@ -1,9 +1,10 @@
-![Repository Banner](headerimage.png)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+![Repository Banner](headerimage.jpeg)
+#### Por favor, leia [`contributing guidelines`](./contributing.md) antes de submeter novos recursos.
 
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
+- [Tailwind](#tailwind)
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
@@ -93,6 +94,23 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+## Tailwind Recursos
+
+>Websites with templates, componentes, cheatsheets, tricks.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [CheatSheet nerdcave](https://nerdcave.com/tailwind-cheat-sheet/)                                                              | Auxilio para a criação de um kit tailwind       |
+| [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
+
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 
 ## Fonts
 
