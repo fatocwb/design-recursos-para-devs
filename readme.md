@@ -37,6 +37,7 @@
 - [Firefox Extensions](#firefox-extensions)
 - [AI Graphic Design Tools](#ai-graphic-design-tools)
 - [Others](#others)
+- [Freemium](#freemium)
 
 ## UI Graphics
 
@@ -96,7 +97,7 @@
 </div>
 
 
-## Tailwind
+## Tailwind Recursos
 
 >Websites with templates, componentes, cheatsheets, tricks.
 
@@ -169,6 +170,8 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Tool in one (css filter)](https://toolinone.com/css-filter-color/) | Conversão de uma cor hex em css filter.
+| [Real Time Colors](https://www.realtimecolors.com/) | A platform that allows for you to visualize and realize all your color choices to a website.
 | [Colorlab](https://getcolorlab.com) | Create color palette, gradients, color scales, check contrast all in one place.
 | [Color Brewer 2](https://colorbrewer2.org/)| The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest. |
 | [Huetone](https://github.com/ardov/huetone)| A tool to create accessible color systems. |
@@ -1424,6 +1427,8 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Criação de SiteMap](https://www.xml-sitemaps.com/) | Crie o sitemap a partir da URL. |
+| [Pagespeed Tester](https://pagespeed.web.dev/) | Teste de velocidade do website. |
 | [Figpeek](https://figpeek.vercel.app/) | Figpeek is a new Figma and GitHub thumbnail generator. |
 | [Image Extractor](https://extract.pics/) | Online tool for extracting all images and SVGs of a website, all you is just to drop the URL |
 | [Vertopal](https://www.vertopal.com/) | Free online platform for converting computer files to a variety of file formats |
@@ -1491,3 +1496,12 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+## Freemium
+
+>A lista no geral contém serviços gratuitos, aqui está a lista de serviços que são pagos mas que oferecem um cota gratuita
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Gerador wave/bulb](https://haikei.app/generators/) | Geração de blobs, waves, gradient, circle, polys, peaks, etc... |
+
