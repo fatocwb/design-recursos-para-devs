@@ -172,27 +172,15 @@
 | ----------------------- | ------------------ |
 | [Tool in one (css filter)](https://toolinone.com/css-filter-color/) | Conversão de uma cor hex em css filter.
 | [Real Time Colors](https://www.realtimecolors.com/) | A platform that allows for you to visualize and realize all your color choices to a website.
-| [Colorlab](https://getcolorlab.com) | Create color palette, gradients, color scales, check contrast all in one place.
-| [Color Brewer 2](https://colorbrewer2.org/)| The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest. |
-| [Huetone](https://github.com/ardov/huetone)| A tool to create accessible color systems. |
-| [Colormind.io](http://colormind.io)| Color palette generator |
-| [ColorCurves.app](https://colorcurves.app)| Color palette generator that uses curves to generate color palettes |
 | [ColorGradient](https://colorgradient.dev/)| A free tool to create simple and complex CSS Gradients visually |
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
 | [UI Colors](https://uicolors.app/create) | Tailwind CSS color palette generator |
-| [HTML Color Codes](https://htmlcolorcodes.com/)| Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names |
-| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
-| [Palette List](https://www.palettelist.com/)| Pick 2 colors you like and the tool generates thousands of palettes for you. |
 | [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
-| [Material Palette](https://www.materialpalette.com/)| Free to pick palettes, icons and colors for Material Design|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
-| [FlatUIColors](https://flatuicolors.com)| Beautiful set of color palettes in various flavors |
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
 | [Colorsinspo](https://colorsinspo.com/) | All-in-one resource for finding everything about colors |
-| [ColorsWall](https://colorswall.com/) | Place to store your color palettes and generate palette in one click |
 | [Happyhues](https://www.happyhues.co/) | Happy Hues is a color palette inspiration site that acts as a real-world example as to how the colors could be used in your design projects by Mackenzie Child |
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
-| [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |
 | [Gradient Hunt](https://gradienthunt.com/)| A free and open platform for gradient inspiration with thousands of trendy hand-picked color gradients |
 | [Web Gradients](https://webgradients.com/)| A free website to find good CSS gradients |
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set |
