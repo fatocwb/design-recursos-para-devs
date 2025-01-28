@@ -174,6 +174,7 @@
 | [Real Time Colors](https://www.realtimecolors.com/) | A platform that allows for you to visualize and realize all your color choices to a website.
 | [ColorGradient](https://colorgradient.dev/)| A free tool to create simple and complex CSS Gradients visually |
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
+| [Coolors](https://coolors.co/gradient-maker)| Gradiente |
 | [UI Colors](https://uicolors.app/create) | Tailwind CSS color palette generator |
 | [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
 | [ColorSpace](https://mycolor.space/)| Generate nice color palettes from one color |
