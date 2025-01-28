@@ -295,6 +295,8 @@
 | [Icon buddy](https://iconbuddy.app/) | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers. |
 | [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
 | [Flowbite icons](https://flowbite.com/icons/) | Icones svg para copiar. |
+| [Iam Vector](https://iamvector.com/svg-editor/) | Editor svg code para png. |
+
 
 
 <div align="right">
