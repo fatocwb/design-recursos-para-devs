@@ -294,6 +294,7 @@
 | [Sargam Icons](https://sargamicons.com/) | A collection of 275+ open-source icons available for Figma, SVGs, and React. |
 | [Icon buddy](https://iconbuddy.app/) | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers. |
 | [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
+| [Flowbite icons](https://flowbite.com/icons/) | Icones svg para copiar. |
 
 
 <div align="right">
