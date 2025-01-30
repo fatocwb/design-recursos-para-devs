@@ -692,6 +692,7 @@
 | [Whirl](https://github.com/jh3y/whirl)| CSS loading animations with minimal effort! |
 | [Hamburgers](https://jonsuh.com/hamburgers/)| Hamburgers is a collection of tasty CSS-animated hamburger icons. Also included is the source as a Sass library. It’s modular and customizable, so cook up your own hamburger. |
 | [CSS Loaders & Spinners](https://cssloaders.github.io/)| This is a library having a collection of different types of CSS loaders, spinners |
+| [Loaders](https://loaders.holasvg.com/)| Free open source svg loaders |
 | [Motion One](https://motion.dev/)| A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance. |
 | [pocoloco](https://pocoloco.io/)| Generate dynamic backgrounds for your website |
 | [AniX](https://adajuly.github.io/AniX/)| Super easy and lightweight css animation library. |
