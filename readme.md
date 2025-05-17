@@ -292,7 +292,6 @@
 | [Emoji Guide](https://emojiguide.org/) | The collection of 3300 emojis with their HTML codes for easy use. |
 | [Unicorn Icons](https://unicornicons.com) | 100+ customizable playful animated icons. Available in JSON and SVG format. |
 | [Icon buddy](https://iconbuddy.app/) | A collection of 100K+ open-source SVG icons, fully customizable for designers and developers. |
-| [Vectopus](https://vectopus.com) | Top curated collective resources for elite designers. |
 | [Flowbite icons](https://flowbite.com/icons/) | Icones svg para copiar. |
 | [Iam Vector](https://iamvector.com/svg-editor/) | Editor svg code para png. |
 
